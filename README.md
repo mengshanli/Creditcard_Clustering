@@ -29,7 +29,10 @@ Develop a credit card customer segmentation to define marketing strategy.
 
 > Group Blue: Small spender with medium balance who take more cash advance and seldom purchase in installments.
 
+![image](https://github.com/mengshanli/Creditcard_Clustering/blob/master/render_top.png)
 ![image](https://github.com/mengshanli/Creditcard_Clustering/blob/master/render_high.png)
 
-
+## Refer to my kernel in Kaggle
+**Preprocessing and visualization - KMeans**
+https://www.kaggle.com/mengshanlee123/preprocessing-and-visualization-kmeans
 
